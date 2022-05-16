@@ -1,0 +1,5 @@
+.env
+.terraform
+.tfstate
+*.zip
+node_modules
